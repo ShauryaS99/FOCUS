@@ -1,0 +1,13 @@
+Based on the outline/introduction of this project, what should be the first thing I will see once I open up the application?
+Search bar allowing you to choose locations.
+
+How can I search for, choose a set of designated locations, and display the result on the screen as a scrollable list?
+SearchView, RecyclerView
+
+How can I turn my phone into silent mode?
+Audio Manager
+
+How can I detect my current location?
+Google Maps API
+
+List out all the classes and briefly describe what their intended functionalities/roles are.
